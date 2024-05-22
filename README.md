@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋 I'm Mohammad</h1>
-<h3 align="center">A passionate Software Engineering student at Concordia University</h3>
+<h3 align="center">A passionate Software Engineering graduate (Concordia University)</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulaahemin"/> </p>
 
 # 💫 About Me:
-#### 🔭 I’m currently working at the Government of Quebec (and studying)<br>
+#### 🔭 I graduated from Concordia University in Software Engineering<br>
 #### 📫 How to reach me afandimohammad@hotmail.com
 #### 💬 Ask me about web development
 
